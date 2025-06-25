@@ -6,6 +6,19 @@ A complete marketing analysis system that generates professional executive repor
 
 This work is based on the **Analytics Case Study v2 4** and implements the methodology described in the document `data/Analytics Case Studyv2 4.pdf`. The analysis is performed on the dataset provided in `data/analytics-case-study-data-8.xlsx`, containing marketing funnel data and prospect information for comprehensive business intelligence.
 
+### 💬 Discussion Responses
+
+The `DISCUSSION.md` file contains detailed responses to **Section 4: Questions to prepare for discussion** from the original case study document. These responses cover:
+
+1. **Data Cleaning/Preparation Experience** - Real-world examples and challenges
+2. **Data Structure Considerations** - Layout strategy for marketing analysis
+3. **Budget Optimization Analysis** - Approach to marketing budget recommendations
+4. **Statistical Techniques** - Methods for data-driven optimization
+5. **Data Visualization** - Dashboard and insights presentation methodology
+6. **Client Presentation** - Strategies for presenting insights to non-technical stakeholders
+
+The discussion responses provide context about the implementation approach and demonstrate how existing data engineering skills can be applied to marketing analytics challenges.
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
@@ -147,6 +160,7 @@ marketing-report-generator/
 ├── 📄 generate.py              # Report generation module
 ├── 📄 requirements.txt         # Project dependencies
 ├── 📄 README.md                # Main documentation
+├── 📄 DISCUSSION.md            # Section 4 discussion responses
 ├── 📁 data/                    # Input data and templates
 │   ├── analytics-case-study-data-8.xlsx
 │   ├── Analytics Case Studyv2 4.pdf
